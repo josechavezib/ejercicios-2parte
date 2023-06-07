@@ -20,9 +20,9 @@ elif sueldo_mensual > 2000 and sueldo_mensual >= 2220:
 elif sueldo_mensual > 2220:
     i= float(sueldo_mensual) * 0.70
 
-print (sueldo_mensual)   
-print (sueldoneto)
-print (i)
+print ("su suledo mensual antes de impues es: ",sueldo_mensual)   
+print ("su sueldo semanla es: ", sueldoneto)
+print ("su sueldo mensual despues de impuestos es", i)
     
 
 
